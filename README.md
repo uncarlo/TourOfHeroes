@@ -1,2 +1,1 @@
-# Angular2Quickstart
-"# TourOfHeroes" 
+# TourOfHeroes
